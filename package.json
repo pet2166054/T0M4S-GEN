@@ -1,6 +1,6 @@
 {
   "name": "Ninja",
-  "version": "v1.00",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,7 @@
     "node-superfetch": "^0.1.9",
     "opusscript": "0.0.6",
     "os-utils": "0.0.14",
+    "package": "^1.0.1",
     "quick-db": "1.0.5",
     "random-puppy": "^1.1.0",
     "rebuild": "^0.1.2",
