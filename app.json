@@ -1,0 +1,28 @@
+{
+  "name": "Ninja Gen",
+  "description": "Discords Number One Gen Bot",
+  "keywords": [
+    "node",
+    "heroku",
+    "discord"
+  ],
+   "env": {
+    "BOT_TOKEN": {
+      "description": "A Secret Bot Token, Used To Login The BOT. Get The Token In Your App Settings.",
+      "value": ""
+      
+    "PREFIX": {
+      "description": "Your Bots Prefix",
+      "value": "gen"
+    },
+  "website": "https://www.facebook.com/groups/VNSharingCommunity/",
+  "repository": "https://discordapp.com/invite/PVUgwVf",
+  "logo": "https://cdn.discordapp.com/avatars/614309964097388545/15cd8dd83d12e014fbe3aa17963d1c8f.png?size=256",
+  "success_url": "/welcome",
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}

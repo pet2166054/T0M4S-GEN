@@ -1,7 +1,7 @@
 {
-  "name": "Ninja",
-  "version": "Beta",
-  "description": "Beta",
+  "name": "Ninja Gen",
+  "version": "Beta Release",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
