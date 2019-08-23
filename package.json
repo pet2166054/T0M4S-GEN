@@ -1,6 +1,6 @@
 {
-  "name": "Ninja Gen",
-  "version": "Beta Release",
+  "name": "Ninja",
+  "version": "v1.00",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -25,12 +25,13 @@
     "moment-duration-format": "^2.3.2",
     "ms": "^2.1.2",
     "node-fetch": "^2.6.0",
-    "node-gyp": "^4.0.0",
+    "node-gyp": "^5.0.3",
     "node-superfetch": "^0.1.9",
     "opusscript": "0.0.6",
     "os-utils": "0.0.14",
     "quick-db": "1.0.5",
     "random-puppy": "^1.1.0",
+    "rebuild": "^0.1.2",
     "regex": "^0.1.1",
     "snekfetch": "^4.0.4",
     "superagent": "^5.0.5",
