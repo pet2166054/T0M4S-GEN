@@ -1,0 +1,40 @@
+{
+  "name": "Ninja",
+  "version": "Beta",
+  "description": "Beta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.1",
+    "discord.js-musicbot-addon": "^13.7.0",
+    "enmap": "^5.1.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "google": "^2.1.0",
+    "integer": "2.1.0",
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2",
+    "lodash.unset": "^4.5.2",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "node-gyp": "^4.0.0",
+    "node-superfetch": "^0.1.9",
+    "opusscript": "0.0.6",
+    "os-utils": "0.0.14",
+    "quick-db": "1.0.5",
+    "random-puppy": "^1.1.0",
+    "regex": "^0.1.1",
+    "snekfetch": "^4.0.4",
+    "superagent": "^5.0.5",
+    "urban": "^0.3.2",
+    "ytdl-core": "^0.24.0"
+  }
+}
